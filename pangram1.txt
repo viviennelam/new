@@ -1,1 +1,9 @@
 the quick brown fox jumps over
+Quick fox jumps nightly above wizard
+the quick brown fox jumps over
+<<<<<<< HEAD
+Quick fox jumps nightly above wizard
+=======
+the jay, quack
+>>>>>>> quac:wq
+
